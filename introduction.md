@@ -8,4 +8,8 @@ Dojo Rules
 * Most Sensei's should be respected
 * I am sensei.I have pizza.
 * i love Electives, yet i don't know what it is.Love is the answer!
+<<<<<<< Updated upstream
 * yayyyy
+=======
+* 2.3 is hard man
+>>>>>>> Stashed changes
